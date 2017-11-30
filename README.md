@@ -1,3 +1,3 @@
 # Jammer
 Game jams
-The jammes never ends
+The jamnes never ends
